@@ -1,57 +1,45 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+## Introduction
 
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-    {% include head-custom.html %}
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+Confocal microscopy is an advanced microscopy technique that provides high contrast imaging and allows optical sectioning and 3D imaging. The prohibitive cost of commerical systems has led to the technique being inaccessible for education, in developing countries and to labs on a low budget. This project aims to create a functional confocal microscope system at a low-cost by using 3D-printing and inexpensive off the shelf components. The system will be completely adjustable with 3D printed flexure stages to position optical components. The current design costs £1570 and has shown promising results.
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+A full report on the project is available here: [LowCostConfocal Report.pdf](https://github.com/CallanTME/LowCostConfocal/files/8895100/LowCostConfocal.Report.pdf)
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
+### The System
 
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+![image](/LowCostConfocal/Source Pics/CurrentSystem.jpg)
 
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
-      </header>
-      <section>
+### Current Results
+1. A Square scanned onto the focal plane (A) and then rescanned onto the image plane (B) with some noise as no pinhole is in use.
 
-      {{ content }}
+![image](/LowCostConfocal/Source Pics/TwoScannedSquare.png)
 
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-  </body>
-</html>
+2. Images acquired with a camera using the microscope while scanning a square. (A) No pinhole with mirror in focal plane, (B) Pinhole with mirror in focal plane, (C) No pinhole with scattering target in focal plane, (D) Pinhole with scattering target in focal plane
 
+![image](/LowCostConfocal/Source Pics/CameraResults.jpg)
+
+## Instructions
+
+Everything needed to duplicate the work done in this project is available in the repository.
+
+### Enclosure
+
+The whole enclosure is 3D printed. All parts are available as .stl for ease of printing as well as Inventor parts (.ipt) for ease of adjustment. Reference the BOM for the quantity of each part needed.
+
+### Mirror Control
+
+The control circuit schematic is available in the repository. The mirrors need at +/-5V differential signal. More information can be found on the eBay page through the link in the BOM.
+
+### Optics and Other Components
+
+Links to buy all components are available in the BOM
+
+## Future work
+1. Z-axis pinhole adjustment for ease of alignment
+2. Custom PCB to make control circuit implementation simpler
+3. Custom printed kinematic mounts to further reduce cost
+4. etc...
+
+## Acknowledgements
+
+All work was done in the Rowlands lab at Imperial College London under the supervision of Dr Christopher Rowlands with help from Dr Glenn Howe. Ji Young Yoon from the Department of Bioengineering and David Miller from the Imperial College Hackspace assisted with the manufacture of the microscope.
