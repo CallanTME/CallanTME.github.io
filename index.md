@@ -5,7 +5,8 @@
 
 ### Budget Confocal Microscope
 
-![image](/LowCostConfocal/Source Pics/CurrentSystem.jpg# thumbnail)
+![image](/LowCostConfocal/Source Pics/CurrentSystem.jpg)
+<img src="/LowCostConfocal/Source Pics/CurrentSystem.jpg" alt="Kitten" title="A cute kitten" width="150" height="100" /> 
 
 ### Microfluidic Blood-Brain-Barrier Chip
 
@@ -25,11 +26,6 @@
 
 ## Education
 
-
-img[src*="#thumbnail"] {
-   width:150px;
-   height:100px;
-}
 
 
 
