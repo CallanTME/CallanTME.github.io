@@ -5,7 +5,7 @@
 
 ### Budget Confocal Microscope
 
-![image](/LowCostConfocal/Source Pics/CurrentSystem.jpg)
+![image](/LowCostConfocal/Source Pics/CurrentSystem.jpg# thumbnail)
 
 ### Microfluidic Blood-Brain-Barrier Chip
 
@@ -25,6 +25,11 @@
 
 ## Education
 
+
+img[src*="#thumbnail"] {
+   width:150px;
+   height:100px;
+}
 
 
 
