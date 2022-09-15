@@ -10,7 +10,7 @@ An open source project with the aim to make the highly useful but prohibitively 
 
 A full report on the project is available here: [Report](https://github.com/CallanTME/LowCostConfocal/files/8895100/LowCostConfocal.Report.pdf)
 
-It's own webpage and an open-source repository with all the CAD files, BOM and build instructions is available here: [page](https://callantme.github.io/LowCostConfocal/) [Repository](https://github.com/CallanTME/LowCostConfocal)
+It's own webpage and an open-source repository with all the CAD files, BOM and build instructions is available here: [Page](https://callantme.github.io/LowCostConfocal/) | [Repository](https://github.com/CallanTME/LowCostConfocal)
 
 <img src="/LowCostConfocal/Source Pics/CurrentSystem.jpg" alt="ConfocalSystem" title="Confocal System" width="500"/> 
 
