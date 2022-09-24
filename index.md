@@ -9,7 +9,7 @@ I am a graduate biomedical engineer with deep interest in the medical device ind
 An open source project with the aim to make the highly useful but prohibitively expensive technique of confocal microscopy accessible to all. By using off the shelf parts and custom 3D printed pieces I created a highly replicable confocal microscope unit for £1500. This was a solo project so I worked on all aspects including optics, mechanical design, 3D printing, electronics and programming.
 
 A full report on the project is available here: 
-<a href="/Docs/LowCostConfocalReport.pdf" target="_blank">Report</a>
+<a href="/Docs/FYP_Final_Report_Compressed.pdf" target="_blank">Report</a>
 
 It's own webpage with results and instructions is available here: [Page](https://callantme.github.io/LowCostConfocal/)
 
