@@ -21,7 +21,7 @@ The open-source repository with all the CAD files, BOM and build instructions is
 This group project aimed to create an in-vitro model of the BBB in order to be able to test the suitability of imaging agents for glioblastoma diagnosis and analysis. The device consisted of a microfluidic chip with a cell culture within to mimic the BBB and a sensor setup to assess how much imaging agent could pass throught the barrier. I was the project manager and worked on microfluidic chip design and fabrication.
 
 A full report on the project is available here:
-<a href="callantme.github.io/docs/FinalReport.pdf" target="_blank">Report.</a>
+<a href="/Docs/FinalReport.pdf" target="_blank">Report.</a>
 
 <img src="/Docs/ChipPics.jpeg" alt="ConfocalSystem" title="Confocal System" width="500"/> 
 
