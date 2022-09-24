@@ -8,7 +8,8 @@ I am a graduate biomedical engineer with deep interest in the medical device ind
 
 An open source project with the aim to make the highly useful but prohibitively expensive technique of confocal microscopy accessible to all. By using off the shelf parts and custom 3D printed pieces I created a highly replicable confocal microscope unit for £1500. This was a solo project so I worked on all aspects including optics, mechanical design, 3D printing, electronics and programming.
 
-A full report on the project is available here: [Report](https://github.com/CallanTME/LowCostConfocal/files/8895100/LowCostConfocal.Report.pdf)
+A full report on the project is available here: 
+<a href="/Docs/LowCostConfocalReport.pdf" target="_blank">Report</a>
 
 It's own webpage with results and instructions is available here: [Page](https://callantme.github.io/LowCostConfocal/)
 
@@ -21,7 +22,7 @@ The open-source repository with all the CAD files, BOM and build instructions is
 This group project aimed to create an in-vitro model of the BBB in order to be able to test the suitability of imaging agents for glioblastoma diagnosis and analysis. The device consisted of a microfluidic chip with a cell culture within to mimic the BBB and a sensor setup to assess how much imaging agent could pass throught the barrier. I was the project manager and worked on microfluidic chip design and fabrication.
 
 A full report on the project is available here:
-<a href="/Docs/FinalReport.pdf" target="_blank">Report.</a>
+<a href="/Docs/FinalReport.pdf" target="_blank">Report</a>
 
 <img src="/Docs/ChipPics.jpeg" alt="ConfocalSystem" title="Confocal System" width="500"/> 
 
