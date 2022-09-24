@@ -24,13 +24,15 @@ This group project aimed to create an in-vitro model of the BBB in order to be a
 A full report on the project is available here:
 <a href="/Docs/FinalReport.pdf" target="_blank">Report</a>
 
-<img src="/Docs/ChipPics.jpeg" alt="ConfocalSystem" title="Confocal System" width="500"/> 
+<img src="/Docs/ChipPics.jpeg" alt="ChipPics" title="BBB Chip Demo" width="500"/> 
 
 ### Hospital Bed Monitoring System
 
 Built a web-app created for nurses in hospital to keep track of which patients need to be moved based on their risk factors and how long they've been in the same position. The web-app was built using Vaadin as a framework. It was written in Java and SQL and was deployed using Heroku. The ultimate goal is to integrate such an app with bed sensors to significantly reduce the workload of nurses and prevent infections.
 
-Link
+The web-app can be accessed [HERE](https://postureapp.herokuapp.com/login)
+
+<img src="/Docs/PostureAppDemo.png" alt="PostureAppDemo" title="Posture App Demo" width="500"/> 
 
 ### Electronic Brailler for teaching Maths
 
