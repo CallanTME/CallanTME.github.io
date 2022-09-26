@@ -1,0 +1,5 @@
+main:
+  - title: "Home"
+    url: /index.md
+  - title: "About"
+    url: /files/about.md
