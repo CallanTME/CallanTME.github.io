@@ -13,12 +13,16 @@ world.
 - I improved my transferable skills such as teamwork, time-management
 and documenting work
 
+<hr>
+
 ### Imperial College London - Undergraduate Researcher - Summer 2020
 
 I worked in the Non-invasive Surgery and Biopsy Laboratory in the Bioengineering department of Imperial College London
 - My task was to design and simulate a circuit to condition ultrasound echo signals.
 - Designed and simulated a working circuit using PSPICE which met all the specifications. I gained excellent experience using my circuit design skills in a very applied project.
 - I gave a presentation to demonstrate my design and results to the whole lab at the end of the project.
+
+<hr>
 
 ### MyTutor - Online Tutor - Ongoing
 
@@ -28,6 +32,8 @@ Over the past 4 years I have been tutoring alongside my degree and have complete
 - Organised and prepared for up to 10 students while also handling my university workload
 - Built an excellent rapport with students and parents, communicating effectively to fully understand their needs in order to tailor lessons to them.
 - Effectively communicated complex and new concepts to students across a range of levels.
+
+<hr>
 
 ### Shankill Tennis Club - Tennis Coach - Summer 2019
 
