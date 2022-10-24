@@ -2,8 +2,6 @@
 
 ## Projects
 
-<hr>
-
 ### Budget Confocal Microscope
 
 An open source project with the aim to make the highly useful but prohibitively expensive technique of confocal microscopy accessible to all. By using off the shelf parts and custom 3D printed pieces I created a highly replicable confocal microscope unit for £1500. This was a solo project so I worked on all aspects including optics, mechanical design, 3D printing, electronics and programming.

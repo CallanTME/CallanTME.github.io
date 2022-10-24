@@ -9,7 +9,9 @@ C++ and Java.
 - Experienced with C# in Unity.
 - I have developed a web app using Java and Vaadin
 framework, with an SQL database.
+- Very experienced with Matlab and Simulink across a range of uses, especially signal processing
 - Machine learning and data science with Python
+ 
 
 <hr>
 
